@@ -1,0 +1,1508 @@
+# Compile of final_exam_test_bench.v was successful.
+# Compile of microprocessor.vo was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.final_exam_testbench
+# vsim -gui work.final_exam_testbench 
+# Start time: 03:13:48 on Dec 17,2022
+# Loading work.final_exam_testbench
+# Loading work.microprocessor
+# Loading work.hard_block
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 565
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 578
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 591
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 604
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 617
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 630
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 643
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 656
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 669
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 682
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 695
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 708
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 721
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 734
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 747
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 760
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 773
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 786
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 799
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 812
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 825
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 838
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 851
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 864
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 877
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 890
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 903
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 916
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 929
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 942
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 955
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 968
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 981
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 994
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1007
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1020
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1033
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1046
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1059
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1072
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1085
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1098
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1111
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1124
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1137
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1150
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1163
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1176
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1189
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1202
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1215
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1228
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1241
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1254
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1267
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1280
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1293
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1306
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1319
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1332
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1345
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1358
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1371
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1384
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1397
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1410
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1423
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1436
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1449
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1462
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1475
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1488
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1501
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1514
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1527
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1540
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1553
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1566
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1579
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1592
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1605
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1618
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1631
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1644
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1657
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1670
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1683
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1696
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1709
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1722
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1735
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1748
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1761
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1774
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1787
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1800
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1813
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1826
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1839
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1852
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1865
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1878
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1891
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_clkctrl' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1901
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1914
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1933
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1943
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1962
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1979
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 1998
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2016
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2033
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2052
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2070
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2087
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2106
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2124
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2141
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2160
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2179
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2197
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2215
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2234
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2252
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2271
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2288
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_ram_block' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2305
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2359
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2378
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2395
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2414
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2431
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2450
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2469
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2486
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2503
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2522
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2541
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2558
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_clkctrl' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2575
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2588
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2605
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2624
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2641
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2658
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2675
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2692
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2711
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2728
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2745
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2762
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2781
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2798
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2815
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2832
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2851
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2868
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2885
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2904
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2921
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2938
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2955
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2972
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 2989
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3006
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3016
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3033
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3050
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3067
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3084
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3101
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3118
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3135
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3152
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3169
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3186
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3203
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3220
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3237
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3256
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3273
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3292
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3310
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3327
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3344
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3361
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3378
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3395
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3412
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3429
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3446
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3465
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3484
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3503
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3520
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3539
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3558
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3575
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3593
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3610
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3628
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3646
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3664
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3681
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3698
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3715
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3733
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3751
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3770
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3787
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3805
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3822
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3840
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3858
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3877
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3887
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3906
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3925
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3944
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3962
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3980
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 3997
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4016
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4026
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4045
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4064
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4081
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4100
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4119
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4137
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4155
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4172
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4190
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4207
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4226
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4243
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4260
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4277
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4294
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4312
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4330
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4347
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4365
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4384
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4402
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4419
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4437
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4455
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4473
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4491
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4508
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4526
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4543
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4560
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4578
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4595
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4613
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4631
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4650
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4671
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4690
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4707
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4725
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4746
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4765
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4786
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4805
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4823
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4840
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4858
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4875
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4894
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4912
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4929
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_ram_block' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4946
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 4994
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5012
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5029
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5046
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5063
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5082
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5099
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5118
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5135
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5152
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5169
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5186
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5203
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5220
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5237
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5254
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5271
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5288
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5306
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5324
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5342
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5360
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5379
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5396
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5414
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5432
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5450
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5467
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5486
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5503
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5521
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5538
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5556
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5575
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5592
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5610
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5629
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5647
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5665
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5683
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5701
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5718
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5737
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5754
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5771
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5788
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5805
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5822
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5839
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5856
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5873
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5890
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5907
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5924
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5941
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5960
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5977
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 5994
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6011
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6028
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6045
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6062
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6081
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6098
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6115
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6134
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6144
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6162
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6180
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6197
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6215
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6233
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6250
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6267
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6284
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6301
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6318
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6337
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6354
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6373
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6390
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6409
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6426
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6445
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6462
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6479
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6496
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6513
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6530
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench/micro_1 File: C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo Line: 6547
+#         Searched libraries:
+#             C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/work
+# Error loading design
+# End time: 03:13:48 on Dec 17,2022, Elapsed time: 0:00:00
+# Errors: 365, Warnings: 2
+# Compile of final_exam_test_bench.v was successful.
+# Compile of microprocessor.vo was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.final_exam_testbench -L altera_ver -L altera_mf_ver -L cycloneive_ver
+# vsim -gui work.final_exam_testbench -L altera_ver -L altera_mf_ver -L cycloneive_ver 
+# Start time: 03:16:48 on Dec 17,2022
+# Loading work.final_exam_testbench
+# Loading work.microprocessor
+# Loading work.hard_block
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading altera_ver.dffeas
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading cycloneive_ver.cycloneive_ram_block
+# Loading cycloneive_ver.cycloneive_ram_register
+# Loading cycloneive_ver.cycloneive_ram_pulse_generator
+# Loading altera_ver.PRIM_GDFF_LOW
+do final_preamble_wave.do
+run -all
+#    
+# Accumulator output is 90eb for seed aa at time 310 us
+#    
+# Accumulator output is 90eb for seed aa at time 630 us
+#    
+# Warning:  exam dependent seed is 8'HFF, which is not normally used in an exam. 
+# Accumulator output = 1f5f for exam dependent seed ff at time 950 us
+#    
+#    
+# ** Note: $stop    : C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/final_exam_test_bench.v(28)
+#    Time: 960 us  Iteration: 0  Instance: /final_exam_testbench
+# Break in Module final_exam_testbench at C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/final_exam_test_bench.v line 28
+# End time: 03:22:19 on Dec 17,2022, Elapsed time: 0:05:31
+# Errors: 0, Warnings: 2

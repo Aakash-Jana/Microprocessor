@@ -1,0 +1,222 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vfinal_exam_testbench
+Z0 !s110 1671268582
+!i10b 1
+!s100 jBZ;cPXbWjmDXO`X<m@e11
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IfRBLnPg`aOiJGKK7nT^G?0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim
+w1670826600
+8C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/final_exam_test_bench.v
+FC:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/final_exam_test_bench.v
+!i122 110
+L0 2 145
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1671268582.000000
+!s107 C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/final_exam_test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/final_exam_test_bench.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vhard_block
+R0
+!i10b 1
+!s100 c^8__<o2en8]TkVQN_iJX2
+R1
+I4NLf?X=6Z7Pa[GFPC^E5k0
+R2
+R3
+Z8 w1671268533
+Z9 8C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo
+Z10 FC:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo
+!i122 111
+L0 6769 34
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo|
+!i113 1
+R6
+R7
+vinstruction_decoder
+Z12 !s110 1668542260
+!i10b 1
+!s100 I]KI6YG149clP@T194i8C3
+R1
+I1U:NR42Rm3=I68kTGFb8J3
+R2
+Z13 dC:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim
+w1668542229
+Z14 8C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/microprocessor.vo
+Z15 FC:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/microprocessor.vo
+!i122 10
+L0 32 1463
+R4
+r1
+!s85 0
+31
+Z16 !s108 1668542260.000000
+Z17 !s107 C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/microprocessor.vo|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/microprocessor.vo|
+!i113 1
+R6
+R7
+vmicroprocessor
+R0
+!i10b 1
+!s100 z8PRD^MGC3<H[@NiZo=WL3
+R1
+I1CHjKian`Ecd[VT2IG:@?1
+R2
+R3
+R8
+R9
+R10
+!i122 111
+L0 32 6736
+R4
+r1
+!s85 0
+31
+R5
+Z19 !s107 C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/Preamble Final/microprocessor/simulation/modelsim/microprocessor.vo|
+R11
+!i113 1
+R6
+R7
+vmicroprocessor_tb
+Z20 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z21 !s110 1667968501
+!i10b 1
+!s100 oIJNgNN7KmP0gSof_LKOA2
+R1
+IJzSPLVM<>d0ZcWVM<083T2
+R2
+S1
+R13
+w1667968448
+8C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_rom.sv
+FC:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_rom.sv
+!i122 5
+L0 2 25
+R4
+r1
+!s85 0
+31
+Z22 !s108 1667968501.000000
+!s107 C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_rom.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_rom.sv|
+!i113 1
+Z23 o-work work -sv
+R7
+vprogram_memory
+R21
+!i10b 1
+!s100 K5n59VQXNa9a0LbKkE<UR0
+R1
+Ic7kXzmif`6Nb@5DDDChQg1
+R2
+R13
+w1667968396
+R14
+R15
+!i122 4
+L0 32 353
+R4
+r1
+!s85 0
+31
+R22
+R17
+R18
+!i113 1
+R6
+R7
+vprogram_sequencer
+Z24 !s110 1667020501
+!i10b 1
+!s100 AGcTfA]];J8E66BfN?PbJ2
+R1
+I1d0BX68]DGVRaa9?Z:<0e2
+R2
+R13
+w1667020492
+R14
+R15
+!i122 2
+L0 32 799
+R4
+r1
+!s85 0
+31
+Z25 !s108 1667020501.000000
+R17
+R18
+!i113 1
+R6
+R7
+vtest_bench_for_instruction_decoder
+R12
+!i10b 1
+!s100 B[J[lg3b5Z;PMdmzUC2K?2
+R1
+IlnS<Gc2ahCKOI[5C0BoIb1
+R2
+R13
+w1668482308
+8C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_bench_for_instruction_decoder.v
+FC:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_bench_for_instruction_decoder.v
+!i122 11
+L0 102 105
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_bench_for_instruction_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_bench_for_instruction_decoder.v|
+!i113 1
+R6
+R7
+vtest_program_sequencer
+R20
+R24
+!i10b 1
+!s100 RgzRh7Q?9[]`I27i_o:X=1
+R1
+I=AP^aB_Cn>8eioHaJdbIB1
+R2
+S1
+R13
+w1667020240
+8C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_program_sequencer.sv
+FC:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_program_sequencer.sv
+!i122 3
+L0 2 162
+R4
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_program_sequencer.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aakas/Desktop/School Work/2022/Fall/CME341/microprocessor/simulation/modelsim/test_program_sequencer.sv|
+!i113 1
+R23
+R7
